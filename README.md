@@ -84,7 +84,7 @@ The notebook downloads the dataset automatically with `kagglehub`. It is not sto
 └── README.md
 ```
 
-**Model weights:** `best_unet_model.pth` (trained U-Net weights, best validation Dice at epoch 24, ~118 MB) is too large to keep in the repository. Download it from the [**Releases**](https://github.com/<uturkmen24>/<brain-mri-segmentation-with-nnunet>/releases/latest) page.
+**Model weights:** `best_unet_model.pth` (trained U-Net weights, best validation Dice at epoch 24, ~118 MB) is too large to keep in the repository. Download it from the [**Releases**](https://github.com/uturkmen24/brain-mri-segmentation-with-nnunet/releases/latest) page.
 
 ---
 
@@ -97,7 +97,7 @@ git clone https://github.com/<uturkmen24>/<brain-mri-segmentation-with-nnunet>.g
 cd <brain-mri-segmentation-with-nnunet>
 ```
 
-Download `best_unet_model.pth` from the [Releases](https://github.com/<uturkmen24>/<brain-mri-segmentation-with-nnunet>/releases/latest) page and place it in the repository folder, next to `history.json`. You need it only for option A in step 4.
+Download `best_unet_model.pth` from the [Releases](https://github.com/uturkmen24/brain-mri-segmentation-with-nnunet/releases/latest) page and place it in the repository folder, next to `history.json`. You need it only for option A in step 4.
 
 ### 2. Create an environment and install dependencies
 
