@@ -94,7 +94,7 @@ The notebook downloads the dataset automatically with `kagglehub`. It is not sto
 
 ```bash
 git clone https://github.com/<uturkmen24>/<brain-mri-segmentation-with-nnunet>.git
-cd <repo-name>
+cd <brain-mri-segmentation-with-nnunet>
 ```
 
 Download `best_unet_model.pth` from the [Releases](https://github.com/<uturkmen24>/<brain-mri-segmentation-with-nnunet>/releases/latest) page and place it in the repository folder, next to `history.json`. You need it only for option A in step 4.
